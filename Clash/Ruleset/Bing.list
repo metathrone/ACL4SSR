@@ -1,4 +1,4 @@
-# Bing
+# Bing & Microsoft Reward 
 DOMAIN-SUFFIX,msxiaobing.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing123.com
@@ -13,6 +13,4 @@ DOMAIN-SUFFIX,bing.cn
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bingforbusiness.com
-
-# Microsoft Reward
-DOMAIN-SUFFIX,rewardsplatform.microsoft.com
+DOMAIN,prod.rewardsplatform.microsoft.com
